@@ -1,1 +1,2 @@
 # Finetuning-greek-bert-for-goverment-gazete
+The above code is the implementation of a binary classification problem for categorizing responsibilities and structures for Governent Issued Gazettes using the pretrained modedl greekBert. To run the code clone the repository and load the python file (Binary_text_classification_.ipynb) into a Google Collab or jupyter notebook, the path of the csvs files will need changing.
